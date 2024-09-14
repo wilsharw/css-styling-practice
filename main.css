@@ -1,0 +1,53 @@
+h1 {
+  font-size: 40px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 0cap;
+  margin: auto;
+  font-weight: 800;
+  text-decoration: ;
+  color: #0e3b27;
+  background-color: ;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: ;
+  padding: ;
+  margin: ;
+  font-weight: ;
+  color: ;
+  background-color: ;
+}
+
+p {
+  font-family: 10px;
+  font-size: ;
+  padding: ;
+  margin: ;
+  color: ;
+}
+.page {
+  align-content: center;
+}
+
+.retelling {
+  font-size: 20px;
+  font-family: ;
+  padding: ;
+  margin: ;
+  font-weight: 600;
+  color: ;
+  background-color: ;
+}
+
+.logo {
+  background-size: cover;
+  background-image: url("logo-emblem-black-1000.png");
+
+  height: 100px;
+  width: 100px;
+}
+* {
+  text-align: center;
+  background-color: rgb(185, 235, 218);
+}
